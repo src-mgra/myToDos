@@ -1,5 +1,5 @@
 {
-  "name": "BlankApp",
-  "app_id": "",
+  "name": "Todo App",
+  "app_id": "de.it-docs.todos",
   "type": "ionic-angular"
 }
