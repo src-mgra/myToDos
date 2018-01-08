@@ -1,26 +1,14 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+Easy ToDoList in Ionic
 
-## How to use this template
+Shows navigation with NavCtrl and use of AlertCtrl for dialogs. Structure of Ionic-Project and navigation between components. Uses @ionic/storage for persistenz.
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/driftyco/ionic2-app-base).
+reference at:
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/driftyco/ionic2-app-base).
+https://ionicframework.com/docs/storage/
 
-### With the Ionic CLI:
+build for android:
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+https://ionicframework.com/docs/cli/cordova/build/
 
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myBlank blank
-```
-
-Then, to run it, cd into `myBlank` and run:
-
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
-
-Substitute ios for android if not on a Mac.
+https://ionicframework.com/getting-started/
 
